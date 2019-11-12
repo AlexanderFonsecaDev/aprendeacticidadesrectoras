@@ -2,32 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5162b77b-3937-4a83-a45a-2161b8b69fe5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/contenido/actividad_4_post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/actividad_5_post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/actividad_6_post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/busco_mi_pareja.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/caja.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/carta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/cuento_bailarin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/explora_tu_imaginacion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/fondo 2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/fondo 3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/fondo 4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/fondo 5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/forastero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/perfil.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/rincon_del_cuento.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contenido/trabalengua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/material.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/contenido/actividad_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contenido/actividad_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/contenido/actividad_2_post.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contenido/actividad_2_post.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/clean-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/clean-blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/arte.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/arte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/definicion.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/definicion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/exploracion.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/exploracion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/juego.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/juego.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/literatura.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/literatura.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/material.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/material.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +42,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lastpath" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
