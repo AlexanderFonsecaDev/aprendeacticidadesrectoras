@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5162b77b-3937-4a83-a45a-2161b8b69fe5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/arte_colage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/arte_niños_cartelera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/arte_ragado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/arte_ragado_papeñ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/baby_cartelera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/baby_g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/baby_globos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/bg-nosotros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/burbujas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/juego_baby_harina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contenido/juego_baby_pelotas.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/clean-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/clean-blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contenido/actividad_2_post.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contenido/actividad_2_post.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/arte.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/arte.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/definicion.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/definicion.html" afterDir="false" />
@@ -27,6 +37,11 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Dante &lt;jhonalexanderfonseca1993@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
@@ -85,7 +100,16 @@
       <workItem from="1573507431665" duration="3557000" />
       <workItem from="1573529472153" duration="2306000" />
       <workItem from="1573564052988" duration="5841000" />
+      <workItem from="1573657512331" duration="5398000" />
     </task>
+    <task id="LOCAL-00001" summary="se coloco un fondo">
+      <created>1573595689297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573595689297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="se coloco un fondo" />
+    <option name="LAST_COMMIT_MESSAGE" value="se coloco un fondo" />
   </component>
 </project>
