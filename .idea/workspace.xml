@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5162b77b-3937-4a83-a45a-2161b8b69fe5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/contenido/actividad_3_3_post.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contenido/actividad_3_3_post.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/contenido/baby_g.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contenido/baby_g.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/arte.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/arte.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/exploracion.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/exploracion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/literatura.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/literatura.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +85,7 @@
       <workItem from="1573677884648" duration="1066000" />
       <workItem from="1573773157642" duration="1398000" />
       <workItem from="1573936464145" duration="512000" />
-      <workItem from="1574194614012" duration="1767000" />
+      <workItem from="1574194614012" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="se coloco un fondo">
       <created>1573595689297</created>
@@ -114,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573774514421</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modificaciones sobre puntos y cambio de actividades en la literatura">
+      <created>1574212274998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574212274998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +139,7 @@
     <MESSAGE value="se coloco un fondo" />
     <MESSAGE value="ya finn" />
     <MESSAGE value="modificaciones en las edades de juego y recorte en las imagenes" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificaciones en las edades de juego y recorte en las imagenes" />
+    <MESSAGE value="Modificaciones sobre puntos y cambio de actividades en la literatura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificaciones sobre puntos y cambio de actividades en la literatura" />
   </component>
 </project>
