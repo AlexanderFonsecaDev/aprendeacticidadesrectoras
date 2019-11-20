@@ -20,8 +20,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="dantealexf &lt;jhonalexanderfonseca1993@gmail.com&gt;" />
         <option value="Dante &lt;jhonalexanderfonseca1993@gmail.com&gt;" />
+        <option value="dantealexf &lt;jhonalexanderfonseca1993@gmail.com&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
