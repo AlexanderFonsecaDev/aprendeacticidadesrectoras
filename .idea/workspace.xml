@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5162b77b-3937-4a83-a45a-2161b8b69fe5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/contenido/aqui.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
       <workItem from="1573936464145" duration="512000" />
       <workItem from="1574194614012" duration="4438000" />
       <workItem from="1574305895359" duration="676000" />
-      <workItem from="1581516559323" duration="488000" />
+      <workItem from="1581516559323" duration="2661000" />
     </task>
     <task id="LOCAL-00001" summary="se coloco un fondo">
       <created>1573595689297</created>
