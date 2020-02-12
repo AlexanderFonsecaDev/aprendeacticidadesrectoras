@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5162b77b-3937-4a83-a45a-2161b8b69fe5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/exploracion.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/exploracion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/material.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/material.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +33,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lastpath" />
@@ -53,18 +57,6 @@
       <recent name="C:\laragon\www\aprendeacticidadesrectoras\posts" />
       <recent name="C:\laragon\www\aprendeactividadesrectoras\posts" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -89,6 +81,7 @@
       <workItem from="1573936464145" duration="512000" />
       <workItem from="1574194614012" duration="4438000" />
       <workItem from="1574305895359" duration="676000" />
+      <workItem from="1581516559323" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="se coloco un fondo">
       <created>1573595689297</created>
@@ -165,5 +158,11 @@
     <MESSAGE value="modificaciones en las edades de juego y recorte en las imagenes" />
     <MESSAGE value="Modificaciones sobre puntos y cambio de actividades en la literatura" />
     <option name="LAST_COMMIT_MESSAGE" value="Modificaciones sobre puntos y cambio de actividades en la literatura" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581516621684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581516621684" />
   </component>
 </project>
